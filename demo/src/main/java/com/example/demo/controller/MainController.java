@@ -1,6 +1,7 @@
 package com.example.demo.controller;
 
 public class MainController {
-    int i = 0;
+    int i = 10;
+    int j = 0;
 
 }
