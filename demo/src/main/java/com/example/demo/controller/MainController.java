@@ -3,8 +3,8 @@ package com.example.demo.controller;
 public class MainController {
 
 
-    int t31 = 31;
-    int t41 = 41;
+    int t50 = 50;
+    int t51 = 50;
 
 
 
