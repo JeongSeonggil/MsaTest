@@ -8,5 +8,7 @@ public class MainController {
     int q = 20;
     int test = 1;
 
+    int t2 = 20;
+
     int ttt = 10;
 }
