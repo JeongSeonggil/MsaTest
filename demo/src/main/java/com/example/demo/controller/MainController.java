@@ -4,7 +4,7 @@ public class MainController {
     int i = 10;
 
     int j = 12;
-    int df = 2;
+    int df=2;
 
     int q = 20;
     int wqer = 21;
@@ -20,4 +20,7 @@ public class MainController {
     int t14 = 20;
 
     int j = 20;
+
+    int t14 = 20;
+
 }
