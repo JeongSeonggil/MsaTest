@@ -7,6 +7,7 @@ public class MainController {
     int df=2;
 
     int q = 20;
+    int wqer = 21;
     int qd = 22;
     int test = 1;
 
