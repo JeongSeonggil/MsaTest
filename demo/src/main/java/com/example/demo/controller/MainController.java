@@ -13,4 +13,6 @@ public class MainController {
     int t2 = 20;
 
     int ttt = 10;
+
+    int t12 = 0;
 }
