@@ -10,5 +10,7 @@ public class MainController {
     int qd = 22;
     int test = 1;
 
+    int t2 = 20;
+
     int ttt = 10;
 }
