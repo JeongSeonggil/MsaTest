@@ -2,6 +2,6 @@ package com.example.demo.controller;
 
 public class MainController {
 
-    int a = 3;
+    int a = 2;
 
 }
